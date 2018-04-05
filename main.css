@@ -1,0 +1,158 @@
+#nav ul li{ 	
+    display: inline;
+ } 
+
+
+
+
+.now{
+    position: relative;
+    display: inline-block;
+    font-weight: bold;
+    padding: 0.25em 0.5em;
+    text-decoration: none;
+    color: #00BCD4;
+    background: #ECECEC;
+    transition: .4s;
+  }
+
+.now:hover {
+    background: #00bcd4;
+    color: white;
+}
+
+
+.other{
+    position: relative;
+    display: inline-block;
+    font-weight: bold;
+    padding: 0.25em 0.5em;
+    text-decoration: none;
+    color: #00BCD4;
+    background: #ECECEC;
+    transition: .4s;
+  }
+
+.other:hover {
+    background: #00bcd4;
+    color: white;
+}
+
+.sankaku{
+color: #00BCD4
+}
+
+
+
+.firstbox{
+    background: url("pic/mainback.jpg") center center / cover no-repeat fixed;
+    text-align: center;
+    padding : 90px ;
+    color: #ffffff;
+}
+
+
+.accessjoin {
+    position: relative;
+    display: inline-block;
+    font-weight: bold;
+    padding: 7px 10px 10px 10px;
+    text-decoration: none;
+    color: #FFF;
+    background: #a180dc;
+    transition: .4s;
+}
+
+.accessjoin>span {
+    border-bottom: solid 2px #FFF;
+}
+
+.accessjoin:hover {
+    background: #91b5fb;
+}
+
+
+
+.maintitle{
+    margin-left : auto ;
+    margin-right : auto ;
+}
+
+
+
+h2{
+    color: #2196f3;
+    font-size: 50px;
+    text-align: center;
+}
+
+
+
+.start{
+    margin-top : 2em ;
+    margin-left : auto ;
+    margin-right : auto ;
+    color: #2196f3;
+    font-size: 30px;
+    text-align: center;
+}
+
+.box{
+margin-left : auto ;
+margin-right : auto ;
+}
+
+.welcome{
+display: table-cell;
+  vertical-align: middle;
+color: #00bfff;
+}
+
+.discord{
+display: table-cell;
+  vertical-align: middle;
+color: #4169e1;
+}
+
+
+
+.betanow{
+color: #8a2be2;
+}
+
+
+
+.main{
+width: 100%;
+display: table;
+  table-layout: fixed;
+}
+
+
+
+.bar1{
+background-color: #00bfff;
+border: 0;
+display: block;
+width: 100%;
+height: 2px;
+}
+
+
+.bar2{
+background-color: #4169e1;
+border: 0;
+display: block;
+width: 100%;
+height: 2px;
+}
+
+
+.bar3{
+ display: block;
+  width: 100%;
+  height: 2px;
+  background-color: #8a2be2;
+  border: 0;
+}
+
